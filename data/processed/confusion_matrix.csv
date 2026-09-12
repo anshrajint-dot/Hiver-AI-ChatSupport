@@ -1,0 +1,12 @@
+,apple_id_account,apps_app_store,battery_charging,device_settings_features,icloud_photos,ios_update,messages_imessage,other_unclear,performance_crash,purchases_billing,sim_cellular_network
+apple_id_account,1,0,1,0,1,0,1,0,0,0,1
+apps_app_store,2,0,3,1,0,0,1,0,1,0,1
+battery_charging,0,2,2,0,1,0,0,0,0,0,1
+device_settings_features,0,0,1,0,0,0,0,0,0,0,0
+icloud_photos,0,0,1,0,0,0,0,0,1,0,1
+ios_update,2,1,2,0,0,0,0,1,0,0,0
+messages_imessage,0,1,0,0,0,0,0,0,0,0,0
+other_unclear,0,0,1,0,0,0,0,0,0,0,0
+performance_crash,4,3,1,1,0,0,0,0,0,0,1
+purchases_billing,0,0,0,0,0,0,0,0,0,0,0
+sim_cellular_network,0,2,0,0,2,2,0,0,0,0,2

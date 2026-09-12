@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+tqdm
+python-dotenv
+openai==2.9.0

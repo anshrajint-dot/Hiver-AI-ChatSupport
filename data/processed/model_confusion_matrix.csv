@@ -1,0 +1,13 @@
+,apple_id_account,apps_app_store,battery_charging,calls,device_settings_features,icloud_photos,ios_update,messages_imessage,other_unclear,performance_crash,purchases_billing,sim_cellular_network
+apple_id_account,0,0,1,0,6,1,1,1,0,6,0,0
+apps_app_store,0,0,1,0,6,1,0,1,0,23,2,2
+battery_charging,0,0,3,0,6,1,0,0,0,13,2,0
+calls,0,0,0,1,1,0,0,0,0,2,0,0
+device_settings_features,0,0,1,0,6,0,0,0,0,4,1,0
+icloud_photos,0,1,1,0,2,0,0,0,0,7,0,0
+ios_update,0,1,2,0,3,0,0,0,0,13,2,0
+messages_imessage,0,0,1,0,1,0,1,6,0,2,0,1
+other_unclear,0,0,0,0,3,0,0,0,0,2,0,0
+performance_crash,0,0,3,0,6,2,1,2,0,22,2,0
+purchases_billing,0,0,0,0,1,0,0,0,0,0,7,0
+sim_cellular_network,1,1,2,0,4,0,0,1,0,19,3,1

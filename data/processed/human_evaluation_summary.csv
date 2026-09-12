@@ -1,0 +1,11 @@
+﻿metric,value
+examples_evaluated,30.0
+avg_groundedness,1.17
+avg_helpfulness,0.63
+avg_actionability,0.4
+avg_safety,1.93
+avg_evidence_relevance,0.83
+avg_total,4.97
+evidence_relevance_acceptable_pct,53.3
+evidence_relevance_strong_pct,30.0
+safety_acceptable_pct,100.0

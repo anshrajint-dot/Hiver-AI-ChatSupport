@@ -1,0 +1,221 @@
+customer_text,intent,predicted_intent,confidence
+@AppleSupport Screen typing on its own either a malfunction or i have ghost,performance_crash,performance_crash,0.5670540887410932
+@AppleSupport iOS 11.1.1 version.. and restarting the phone or stocks app doesn't help with any changes,performance_crash,performance_crash,0.8829976910488331
+"@AppleSupport No, I only get this issue when I receive messages. I’m using the iPhone 8 Plus",performance_crash,messages_imessage,0.3421889228061387
+"@AppleSupport No. It just flashes at the top of the screen like it’s going to play, but nothing happens.",device_settings_features,performance_crash,0.4837370187588575
+"@AppleSupport It reads ""watchOS 3.2.2 - Your software is up to date.""",apps_app_store,performance_crash,0.7208316197877696
+"@AppleSupport Hi, thanks! I’m running 11.1.1",icloud_photos,performance_crash,0.4794221226803547
+"@460619 @AppleSupport Guys that’s true, i did update to ios11.1 on my 7+ &amp; the battery is the worst 🤨🤯 What’s going on",messages_imessage,ios_update,0.6572156079090177
+"@AppleSupport o IOS11 tá dando problema com o Wi-Fi e não conecta, em todos os Androids aqui de casa funciona internet, no meu cel não 🙄",purchases_billing,device_settings_features,0.8391105354440231
+@726036 @115858 @AppleSupport My iPhone 7+ runs out of charge so quick it’s unbelievable,battery_charging,performance_crash,0.6743231455148917
+@AppleSupport,other_unclear,performance_crash,0.4261144894983541
+"@AppleSupport Yes, but do Dolby Vision films *also* support my HDR10 TV, or are the formats mutually exclusive?",other_unclear,device_settings_features,0.3248002191733945
+@AppleSupport I found a workaround by just manually selecting it in the predictive text. Is it going to be fixed soon?,performance_crash,performance_crash,0.36766751904221645
+"@AppleSupport Gee, where do I start? Can no longer use the letter “I️”, the iMessage is supper laggy, phone randomly freezes. Mind you, these issues never happened before ios11",performance_crash,performance_crash,0.5517026953843528
+@AppleSupport Ios ver 11.1.2. I tried with booth wifi and cellular data. All aps cannot be updated and downloaded.,apps_app_store,device_settings_features,0.6099827894155082
+@AppleSupport I stopped using my Apple Music and now all my iTunes music purchases are gone! From when I the iPhone 3g. Where is my music!,purchases_billing,purchases_billing,0.7497998913762209
+@AppleSupport any idea how to fix this?,other_unclear,performance_crash,0.4078577653082172
+@AppleSupport And I don’t have the Mac on me at the moment.,other_unclear,performance_crash,0.4163067925954027
+@115858 @AppleSupport EYE can’t type the letter that comes after comes after “H” w/o looking like I’m speaking in codes. I️ I️ I️ I️ I️,icloud_photos,performance_crash,0.4862323772232863
+@AppleSupport hi. Can you help me fix my activity ring of my Apple Watch?,sim_cellular_network,purchases_billing,0.20785074218997532
+"@AppleSupport I received many emails like this one, how to stop these spammers!! 🤔",apple_id_account,device_settings_features,0.3083046067681411
+@AppleSupport Thank you for the speedy reply. But it still occurs sometimes. That is better than every time.,other_unclear,performance_crash,0.5991533193432139
+Such a wonderful experience with sorting out the issue I had with logging in to my iCloud through Safari. Thank you @AppleSupport !,apple_id_account,icloud_photos,0.4586983034908957
+@AppleSupport Yes still getting the same pop me to solve this.,other_unclear,performance_crash,0.3559586909319231
+"Hey @AppleSupport how do i disable drag and drop features. I will never use it, it always starts when i rest my finger on something on the screen. I HATE THAT.",performance_crash,performance_crash,0.42981278336933537
+@AppleSupport what the hell is this? My phone has been doing this every 5 minutes since I bought it almost a month ago. I’ve only bought more iCloud storage &amp; set up Apple Pay.. and both of those are working fine.,other_unclear,icloud_photos,0.4920889608513527
+@AppleSupport just got an iPhone X. Now whenever I dictate a reply using CarPlay it sends the message to the wrong person! So awkward.,performance_crash,messages_imessage,0.31958635940776126
+@AppleSupport @118936 @23150 @160959 I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ please help I️ I️ I️ I️ I️,battery_charging,purchases_billing,0.5473814984781976
+"Apple, ima need y’all to get your shit together with this letter ‘I’ problem @AppleSupport",battery_charging,performance_crash,0.5825451847000277
+@AppleSupport anytime I get a notification my Spotify music stops playing. Even if I'm in the app... #iOS11 still sucks😒,sim_cellular_network,performance_crash,0.4020783928497723
+@579186 @AppleSupport Yeah the alarm alerts have gone totally bonkers on my phone too.,ios_update,device_settings_features,0.8317821188379755
+"@AppleSupport MBP mid2012 9,2 (i7 upgraded to 16GB ram &amp; SSD)",ios_update,performance_crash,0.3555889498522396
+"@AppleSupport tell me, am I meant to be using my passcode so much with Face ID I feel like I’ve gone back in time...",ios_update,performance_crash,0.2713302813084091
+"@AppleSupport Thanks for the reply, I do appreciate it, but what irks me is the fact that next reboot, it’s back to the same ‘default’ photo. Why cant we just leave things that work fine alone..?",performance_crash,performance_crash,0.41613523091856075
+iOS 11.0.3 was supposed to fix touch screen problems and it’s made my perfectly ok iPhone device have problems @AppleSupport,ios_update,performance_crash,0.704509990269303
+Does @AppleSupport no longer sell the lightning-ethernet adapter?,device_settings_features,device_settings_features,0.5561912457019014
+IM MAD @AppleSupport why do y’all keep replacing my I️ with this other stuff?? Please FIX IT ASAP,device_settings_features,performance_crash,0.4179510089200395
+@AppleSupport I just sent a dm about an accident on iTunes I need help removing the payment please.,purchases_billing,purchases_billing,0.7972338328368889
+@AppleSupport iPhone 6s and yes version 11.0.2.,ios_update,performance_crash,0.7355256833654318
+"Hey, @AppleSupport, what are you doing about the fact the update made battery life suck?",battery_charging,battery_charging,0.8899986543180933
+@AppleSupport Thank you. iPod 6th gen iOS 11.0,ios_update,performance_crash,0.34861245640917476
+@AppleSupport I was charged for a subscription that I ended and y’all owe me $15.,purchases_billing,purchases_billing,0.8740483536808992
+@AppleSupport Is there a function I can change on my iPhone X so my phone automatically goes full screen when I watch a video it’s so annoying having to tap something to get full screen all the time,ios_update,performance_crash,0.5000417281272935
+Why I can’t download any apps from @118936?@AppleSupport,apps_app_store,apps_app_store,0.7981808225035064
+@AppleSupport This is what happens. I’ve only seen it on Facebook,ios_update,device_settings_features,0.3847323067651426
+@AppleSupport 11.0.2,ios_update,performance_crash,0.676593462356694
+@AppleSupport when y’all gone fix this glitch,performance_crash,performance_crash,0.9711149637152684
+@AppleSupport if I trade in my iPad at the apple store tomorrow will thy give me credit I can use towards an Apple Watch?,ios_update,purchases_billing,0.36299940849821755
+"@AppleSupport No, this happens no matter what app I’m using and even when I’m not touching the phone. I have turned the phone on and off but the issue continues.",ios_update,device_settings_features,0.42504928739257175
+@AppleSupport My tasks/ windows in the background are always shut in order to prevent useless battery usage. Not ready to buy a new iPhone either 🤨,ios_update,battery_charging,0.4273610443206606
+hey @115858 @AppleSupport since when is my charger supposed to catch on fire and melt????,battery_charging,device_settings_features,0.41657186550380915
+"@406735 @AppleSupport YES, I HATE IT AND I'M TYPING IN ALL CAPS BECAUSE THIS PRESUMABLY IS A VERY SIMPLE THING TO FIX @APPLESUPPORT @115858 @80933",battery_charging,performance_crash,0.6697347103000487
+".@AppleSupport Headphone Jack is no longer recognizing headphones with iOS 11.1. Have tried multiple pairs, any solution?",battery_charging,device_settings_features,0.42072470810969254
+"@AppleSupport glitch in iOS 11.0.3 Never happened before. The music seek bar doesn’t work nor does it update per second. Tried closing and opening the app &amp; restarted as well, doesn’t work. Please fix",battery_charging,performance_crash,0.7744305609443326
+"You know @AppleSupport this is ridiculous, for weeks I️ haven’t had to deal with the glitch changing the letter “I️” but now suddenly I️ do out of nowhere? Is this some sort of joke?",performance_crash,performance_crash,0.7363403205200032
+@115858 @AppleSupport When y’all gone fix these bugs 🤦🏾‍♀️,performance_crash,performance_crash,0.6604106821900616
+"@AppleSupport @341674 I have the same problem, I have to open the Spotify or Music App to manage musics, I can’t do it by the Control Center anymore",device_settings_features,device_settings_features,0.7225235381692174
+@AppleSupport are you kidding me! Y’all fix the “I” problem! And now my “I.t” is trippin 🤨🧐😡😡😡🤬🤬🤬,icloud_photos,performance_crash,0.4941943699546837
+Hey @115858 @AppleSupport I don’t think my battery is supposed to go from 100% to 56% in 2 hours. I know my phones old but geez.,battery_charging,battery_charging,0.41022964431802916
+fuck apple and iPhone seriously lost all of my fucking pictures and messages from the last 5 fucking months @115858 @AppleSupport,performance_crash,performance_crash,0.5803559385507244
+@AppleSupport I️ need an explanation,other_unclear,performance_crash,0.2493311263462727
+@AppleSupport Still none of this works...,performance_crash,device_settings_features,0.3598572727038396
+@AppleSupport I really despair that the iPhone 7 does this in notifications. ios 11 is wrong,battery_charging,performance_crash,0.5205738375502733
+@AppleSupport what’s going on with these question marks??,performance_crash,performance_crash,0.44772527402172685
+"@AppleSupport Ahh not again iOS 11.0.2 makes my iPhone 5s freeze all time, not able to use phone properly !! Pls fix",performance_crash,performance_crash,0.8279965782332596
+@AppleSupport It's iPhone 5SE. The battery was good with iOS 10 &amp; also with iOS 11.0.2 but now with 11.1.1 it's the same it drains fast. It a common issue for all the users. There are many articles posted by Forbes also. Hope you know the same. Pls address the issue.,battery_charging,battery_charging,0.6684496562405028
+Y’all best explain why tf I always conveniently get problems with my iPhone when the newest one drops @AppleSupport this shit ain’t no coincidence,apple_id_account,device_settings_features,0.36714418227656
+@AppleSupport @115858 wtf is that on my X,icloud_photos,device_settings_features,0.4295674830026512
+Mac OS X 10.12.6 QuickTime 10.4 cannot play a .MOD video it plays it as a audio file but iMessage can play the video? @AppleSupport,messages_imessage,messages_imessage,0.6259433353150151
+@AppleSupport Why are some notifications in newest iOS overflowing their background boxes? Example attached,battery_charging,device_settings_features,0.2274627034489596
+@AppleSupport I have the I phone 7+. It just freezes out of no where and I can’t turn it off and recently it’s been just restarting itself.,performance_crash,performance_crash,0.908988810785427
+Fix this I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ I️ @AppleSupport,performance_crash,performance_crash,0.7160876429618394
+Since this new iOS11 my weather widget doesn’t even display the right shit. How do I fix that? @AppleSupport,sim_cellular_network,performance_crash,0.46068952782107264
+@AppleSupport how can I send emails to the trash now instead of the archived option in the Apple Mail App,apps_app_store,sim_cellular_network,0.3081655337477873
+Finally updated my phone to iOS 11. Instant regret. Thanks @AppleSupport,ios_update,performance_crash,0.5344764223724062
+"@AppleSupport Battery draining, gets stuck in landscape view, apps take 5-10 seconds to load(including recent calls, voicemail), some apps not compatible, auto dimming won’t turn off, flashlight doesn’t work at low battery percentage",battery_charging,battery_charging,0.8164403197586727
+@AppleSupport battery life has been terrible since iOS 11 on my 6s plus. Any fix can you guys recommend?,battery_charging,battery_charging,0.9151228118914183
+"Dear @AppleSupport, for the 2nd time in 10 Days all my photos have disappeared except for 12 from 3 years ago.",performance_crash,performance_crash,0.28024769445757963
+@AppleSupport I need help but it seems I can't get anywhere with support.,other_unclear,purchases_billing,0.30571458987012035
+@AppleSupport Well they said go to the store they will help you let’s find out if they give me a new phone I will bring back all the iPhones I bought my family for Xmas and go back to google and get pixels for the fam no service what’s so ever from apple support thanks guys,sim_cellular_network,sim_cellular_network,0.5190031205887857
+Can not get any solution with #Apple chat on keep hanging #iPhone 5S after upgrading in iOS 11..😔 @AppleSupport @120640,apps_app_store,performance_crash,0.3410863506000108
+MON CLAVIER LAG A MORT @AppleSupport je vais peter un câble 😤,performance_crash,performance_crash,0.7797285915294284
+Thanks for ruining my brand new phone @AppleSupport!! #iOS11 left me w/ a crashing phone that barely stays charged. #PlannedObsolescence,performance_crash,performance_crash,0.8247621635800295
+@AppleSupport My iPhone is currently running on iOS 11.1.2,messages_imessage,performance_crash,0.7005005751514398
+@AppleSupport Cómo hago para que mi app de @12762 suene incluso si mi iPhone está en silencio o en no molestar 🌙? Gracias. 😀,apps_app_store,performance_crash,0.3745961859822961
+@AppleSupport Since the new update my settings have been changing (back lighting changes by itself. Goes to do not disturb).,device_settings_features,device_settings_features,0.48617050468551437
+@AppleSupport ever since I updated my iPhone to iOS 11 all my apps are running slow &amp; take long to open. My phone constantly freezes and this never happened before the update!!! Just terrible can you fix the bugs ASAP!!!!!!!!!,performance_crash,performance_crash,0.9604749645824326
+So I have to be online or keep the app open to receive messages. I hope @AppleSupport or Whatsapp fixes it.,apps_app_store,performance_crash,0.4419023822269456
+@AppleSupport updated my iphone 5s to ios 11.02.. Random touch occurs very frequently. Reset doesn't help me either.,performance_crash,performance_crash,0.5911975407912881
+Uh @115858 @AppleSupport there might be something wrong with this #macbook #air from 2011.. battery?,battery_charging,battery_charging,0.45760232444116183
+"@AppleSupport Hi, Battery drains super fast,Animation lags,Doesn't keep apps on memory as before. Expecting a fix ASAP",battery_charging,battery_charging,0.8574655351724025
+@AppleSupport I can’t open my messages app on iPhone X iOS 11.1 please help,apps_app_store,performance_crash,0.542101265351858
+@AppleSupport trying to figure out how to turn on applepay cash with this 11.2 update???,device_settings_features,device_settings_features,0.3397111191099519
+@AppleSupport Is there a way to force iCloud Drive to sync on Mac? I signed into iCloud &amp; no files show up. Files are on all other iDevices.,icloud_photos,icloud_photos,0.8159095629499163
+@AppleSupport if i restore my phone from a old backup. Will all the new things on my phone be deleted? Like my messages and pictures?,battery_charging,performance_crash,0.5487577555313777
+@AppleSupport Why do I keep seeing boxes with question marks in them when I have already updated to the newest iOS?,other_unclear,device_settings_features,0.39195230133810416
+@AppleSupport My phone doesn't like to load any app data or anything when on WiFi. Only on cellular. Restored and tried multiple networks,device_settings_features,device_settings_features,0.7214873406365521
+@490099 wtf @AppleSupport get it together,performance_crash,performance_crash,0.7028395974403665
+@115858 WHY IS THIS HAPPENING!!! @AppleSupport,performance_crash,performance_crash,0.4019105813879604
+"@AppleSupport Already went through this - battery life was perfect until latest update. The problem with the battery draining fast was definitely caused by the latest update. Went through settings multiple times, settings are set the same as before the latest update",battery_charging,battery_charging,0.8989772858296672
+"@AppleSupport I was billed on Friday for a game I play, despite not spending money that day. I contacted them but no reply yet.",purchases_billing,purchases_billing,0.3858866442570342
+@AppleSupport Any way of knowing when my local Apple store will have more iPhone X's?,performance_crash,purchases_billing,0.27968157162484913
+@AppleSupport Tried both of your support methods last night - poor planning that they were both unavailable during iPhone X sales launch when needed.,performance_crash,performance_crash,0.38666510096046597
+"@AppleSupport iPhone 8 on latest IOS, screen auto lock doesn’t work",performance_crash,device_settings_features,0.7146552075885766
+@478158 @AppleSupport It’s happening to me too and I’m actually about to lose my mind I️ I️ I️ I️ I️ I️ I️ I️ I️,performance_crash,performance_crash,0.5487709767659973
+"@AppleSupport @343916 I was thinking about the same thing, IPhone 6a and iOS 11.0.3.. battery &amp; heating is the issue",battery_charging,battery_charging,0.6648480945516742
+"@AppleSupport It happens regardless of devices being attached. It happens across all the of the apps I'm running: Mail, Preview, Chrome, Word, Excel. It happens even if only one app is running.",apps_app_store,performance_crash,0.6005600822642766
+@AppleSupport It does it with every app. And yes it’s up to date with the software.,apps_app_store,performance_crash,0.7189979789370754
+I wish I know how iOS 11 drains my #iPhone7 battery so fast! @115858 @AppleSupport #iOS11 #iphonebattery #iPhone8 #iPhone #iOS,battery_charging,battery_charging,0.7196353599357026
+@AppleSupport Hello! I’m listening to @115888 and the music controls at the control center are not working. Why?,device_settings_features,device_settings_features,0.9120418189545628
+@AppleSupport Yes twitter etc all work fine,performance_crash,performance_crash,0.4346785238979349
+@AppleSupport I did a network reset to try and connect but appears a Message saying not able to connect to network ....,apps_app_store,device_settings_features,0.44467316889730657
+.@115858 really does get worse on usability in a big way. we're having the same issue and nothing helps @applesupport,apps_app_store,device_settings_features,0.3189494224860147
+Hey @AppleSupport if you could fix this whole I️ autocorrect situation that’d be great,apps_app_store,performance_crash,0.5353515562422994
+@AppleSupport someone owe me money or a new phone that is not going to crash everytime a new phone hits the market. Its been going on for too damn long and is unacceptable... FIX IT NOW⚠️,performance_crash,performance_crash,0.7614927636948469
+@AppleSupport why are you guys allowing an app to charge me I canceled the subscription in my phone already two weeks ago. And now I can’t download any apps,apps_app_store,purchases_billing,0.6003072545224819
+Phone keeps dying fast 🙂 @AppleSupport,battery_charging,performance_crash,0.798329541285686
+"@AppleSupport Yes from the control center. From yesterday i have observed if i keep my phone locked for some time and unlock it, wifi is on automatically",device_settings_features,device_settings_features,0.9328989045308448
+I must say @AppleSupport latest update is poor. Correcting spelling that is already correct. Putting capital letters in. Changing languages ie hôtel not hotel. Woeful. Just woeful.,performance_crash,device_settings_features,0.34090194869059476
+@AppleSupport I’m using an iPad. I’m on iOS 11.0.3,sim_cellular_network,device_settings_features,0.3213995109088845
+Getting distorted outgoing Voice msg quality w the last update to #iPhone &amp; #WhatsApp @4305 @AppleSupport Bluetooth is off but sounds on,apps_app_store,device_settings_features,0.7901623794801853
+@AppleSupport there is a problem that kept showing on my MacBook pro and my iphone6s is that when i play a music it will turn off and on many time by it self also in my mac the iTunes open himself I don’t know how 🤦🏻‍♀️,apps_app_store,device_settings_features,0.5244743001180849
+@115858 @AppleSupport what’s up with the capital “I️”. And my screen freezing with simple commands?? That @122986 pixel 2 lookin real nice.,performance_crash,performance_crash,0.8709223045147425
+@115858 @AppleSupport I have had to buy and return 5 pairs of airpods because of bad manufacture defects in the housing of the airpods.,apple_id_account,device_settings_features,0.26380645135163455
+@AppleSupport Just installed iOS 11.0.2 on my iPhone 6 and the photo app still refuses to edit the photos immediately. PLEASE FIX THIS BUG!!,apps_app_store,performance_crash,0.520695952287681
+Why do I STILL see those question marks? I updated my phone @AppleSupport,apps_app_store,performance_crash,0.4293405584272917
+@AppleSupport 😩😩 so iPhone 7 will never have it,apps_app_store,performance_crash,0.4083756073740258
+@AppleSupport where is the apps folder on the new iTunes? I can’t find my apps,apps_app_store,performance_crash,0.34055750501799587
+So apparently blue tooth doesn’t work on the iPhone X @AppleSupport. Maybe I should’ve stuck with Samsung.,apps_app_store,performance_crash,0.3828745283340812
+@AppleSupport hi i dgraded my icloud plan from 50GB to free. I’m not sure if it was processed. How do i check it?,apps_app_store,icloud_photos,0.5897409717582549
+"@AppleSupport Today, all of a sudden, no apps can play sound. My music ring tone works tho! I’ve restarted several times and I have the latest iOS. This is an iPhone 6. Please help. (I have tried all the obvious stuff)",device_settings_features,performance_crash,0.38513544038198155
+@AppleSupport Thanks again but still no joy - just tried a music CD same issue - 1st time since Sierra installed - I think others have same problem :(,sim_cellular_network,performance_crash,0.5042463424994515
+"@AppleSupport .@AppleSupport The response from ur tech staff ""you're better off calling the #sydney store direct because we don't know."" Just pathetic.",other_unclear,device_settings_features,0.24273562338842375
+@AppleSupport USA,battery_charging,performance_crash,0.37354704791784965
+"@115858 @applesupport unable to send videos to non-iPhone users, huge problem. Please fix this asap! Have called support, no help.",battery_charging,performance_crash,0.29257553508420736
+I made it. 42nd #MarineCorpsMarathon Mission Accomplished 4:59:20 btw @AppleSupport your @NikeSupport Watch &amp; app crashed 3 times no record,performance_crash,performance_crash,0.8210867230972538
+"@AppleSupport many bugs in 11.0.1 ; When msg button clicks on a contact,its not appearing screen “ to send message”",messages_imessage,messages_imessage,0.4720089723320031
+@AppleSupport Yes. I’ve also toggled iMessage off and back on.,messages_imessage,messages_imessage,0.8201922400925755
+"@AppleSupport When I open my safari it starts with a blanc page, I want it to start with my favorites again... How do I do this? Thanks",sim_cellular_network,performance_crash,0.5307549128198701
+@AppleSupport I purchase something wrongly and i want to refund it how can i do that ?,purchases_billing,purchases_billing,0.8858770436569166
+"@683805 @AppleSupport @115858 No. I've uninstalled all apps that weren't ready for iOS11 (v 11.1.1), I've rebooted the phone several times, still no joy. It must be a bug when recovering installation from another phone. Perhaps better to reinstall from scratch?!",messages_imessage,performance_crash,0.7274260078596031
+@AppleSupport Now it’s 62%. Everything worked just fine with watch OS 3! I like some of the new features of 4 but this bug is terrible.,apps_app_store,performance_crash,0.43554716171455854
+I️ updated my ios11 and every time eye type I️ it turns into a question mark? Fix this shit @AppleSupport,device_settings_features,performance_crash,0.7355578426338177
+@AppleSupport It’s not happening with any specific apps. It happens all the time. Connected to WiFi. No connected to WiFi. Home. Public. Wherever I am!,device_settings_features,device_settings_features,0.9371842591131405
+"But now, I can't seem to do that any more. It seems that either I restrict app installation or I don't: you have removed the distinction between free downloads and not-free downloads???? THIS IS REALLY INCONVENIENT. @AppleSupport",apps_app_store,performance_crash,0.3287741016673239
+Okay the question mark still comes out lol wtf @AppleSupport,performance_crash,performance_crash,0.5446389977662154
+Has anyone else’s @115858 watch screen popped off? Mine sprung across the room for no reason and is completely useless now. @AppleSupport,performance_crash,performance_crash,0.47462798199524125
+@AppleSupport fuck ur update! my iphone 6 feels like a 6 year old phone now! thanks to ur ios update :) moneymaker,performance_crash,ios_update,0.7550297888660499
+Why does every time I️ day I️ it looks all weird? @AppleSupport I️ I️ I️,performance_crash,performance_crash,0.5709708371897788
+"@AppleSupport just received my iPhoneX, my photos aren’t transferring from old to new device. HELP! I have iCloud photo stream on. Only 159 pictures out of over 22,000 transferred.",icloud_photos,icloud_photos,0.7604365963581105
+"Bro do another update, I can barely switch between apps @AppleSupport",apps_app_store,performance_crash,0.5038008611573133
+"@AppleSupport iPhone 6, 11.1.2, last night around 12am and I did uninstall it and re install it and it still doesn’t work",apps_app_store,performance_crash,0.5197521570402321
+I️ 👈 is so annoying!!!! @AppleSupport please fix this!!!,icloud_photos,performance_crash,0.7686687026160419
+@AppleSupport I’ve got shit to do. I can’t call you guys every single time you run another buggy update. This is unacceptable.,messages_imessage,performance_crash,0.6312873968981974
+@applesupport iPhone@6s still unbearably slow after iOS 11.1 and 11.1.2 super laggggy.when is it going to be fixed?!,performance_crash,performance_crash,0.903773228397776
+@AppleSupport Very clever. But did we really need it? Why clutter the home screen needlessly? I really don’t see the need for it. Do you?,performance_crash,performance_crash,0.42212627466717356
+@AppleSupport LIKE ACTUALLY WHAT IS THIS!,apps_app_store,performance_crash,0.5263300742581023
+@AppleSupport make this glitch stop pls,performance_crash,performance_crash,0.9481223118053412
+Hello @AppleSupport take a look at this email please.,icloud_photos,performance_crash,0.40947248071559506
+@AppleSupport other than quitting Safari. Have you got any good ideas about dealing with these?,apps_app_store,performance_crash,0.5577742536409718
+@AppleSupport Yes. I’ve done it already,performance_crash,performance_crash,0.5719468632736858
+@115858 @AppleSupport why can you no longer see the battery percentage on the iPhone X?,battery_charging,battery_charging,0.8363933626608394
+Anyone else having issues uploading Instagram videos with the #iPhoneX - mine are getting distorted @AppleSupport,icloud_photos,device_settings_features,0.3398841099259855
+.@AppleSupport iPhone update sucks! Message notifications don’t show on locked screen. Trouble reading incoming messages when in message 😡,apps_app_store,messages_imessage,0.651922375937061
+Hey @AppleSupport i️ would love to use the first person singular pronoun to refer to myself again... without a question mark and a box A.,sim_cellular_network,performance_crash,0.44040730663574185
+@AppleSupport my phone is updated so WHY AM I️ SEEING BOXES??,apple_id_account,performance_crash,0.703460140132208
+@AppleSupport App Store not downloading apps using iOS 11.0.3 on 2017 iPad. Works fine on my 6s with iOS 10.3.3,apps_app_store,apps_app_store,0.8434335038428037
+@AppleSupport I trained to get a medal. Can not calculate the activity app 😬 itself was an average of 47.2,sim_cellular_network,apps_app_store,0.24166649335310142
+Pls help @AppleSupport it only happens in my group chats and happens to my friends too,apple_id_account,messages_imessage,0.49229397832093164
+@AppleSupport heavy Battery drain on iOS 11.1 on a iPhone 7. Worst than 11.0.3... why don’t you solve this??,battery_charging,battery_charging,0.874377006252919
+@AppleSupport Every time I️ use the letter “ i “ it pops up,sim_cellular_network,performance_crash,0.6355891035273423
+@AppleSupport why do your support staff keep saying repair when under uk consumer law you’re obliged to replace or refund in first month,purchases_billing,purchases_billing,0.7090749024288274
+Error 11.0.2. @115858 @AppleSupport 🙄,apps_app_store,performance_crash,0.44718524215995803
+"@AppleSupport, I didn’t sign up for localized album covers, how do I disable this crap? iPhone language: English (U.K.) Region: United Kingdom Yes, my payment country is Russia.",purchases_billing,purchases_billing,0.6874048318772619
+My iPhone has basically been redundant since doing the new iOS update! What’s going on @AppleSupport ?,ios_update,ios_update,0.8506691351739757
+"@AppleSupport I’m only seeing this bug over social media instead of messages/autocorrect. not sure if it’s from iPhone or Android users, but it did not resolve with the update.",messages_imessage,messages_imessage,0.28293701295121115
+@AppleSupport wassup man I️ tried to update my MacBook an my shit crashed 🤦🏽‍♂️,performance_crash,performance_crash,0.6637218089774852
+RIP my battery @AppleSupport,battery_charging,battery_charging,0.8687154777792603
+"@AppleSupport Nope it isn't clicked,it happens when I watch a video and when u turn the phone normal it stays fully open...",sim_cellular_network,performance_crash,0.451421320621107
+@AppleSupport It said Finnish is not supported lol,apps_app_store,performance_crash,0.3771589152301814
+@AppleSupport hello i just updated my phone to the newest update and it’s not letting me call ANYONE and i really need to talk to my mom so if u could fix this that would be great,calls,performance_crash,0.42772259460532097
+@AppleSupport Charged all the way to 100% last night. Somehow already at 68%. No apps opened.,sim_cellular_network,performance_crash,0.27245189973997896
+@AppleSupport How can I revert back to ISO 10 please? 😑,apple_id_account,device_settings_features,0.21636421450296742
+"Swollen Battery on 1st Gen Apple Watch, Screen Dislodged, Apple Support Chat denies Warranty Extension #confused @AppleSupport",battery_charging,battery_charging,0.43672674750691093
+Hey @AppleSupport I’m sick of this damn A ? Stuff. Fix it,sim_cellular_network,performance_crash,0.6355295241609791
+@AppleSupport my location services is stuck on requesting data why won’t it shut off,apple_id_account,device_settings_features,0.7305373424077917
+@AppleSupport @115858 iOS 11.0.3 Problems Problems Problems!📱7 Plus crap after update!Provide fix! Crash&amp;drain bugs to use phone normally.,performance_crash,performance_crash,0.7342515535818869
+Anyone else’s phone now buggered cause of the last @AppleSupport iOS download?,sim_cellular_network,performance_crash,0.37818970696033605
+Can’t save pictures sent in @4305 to my camera roll (iPhone). Is this a bug with the iOS11? @AppleSupport,apps_app_store,performance_crash,0.4015588402061841
+"@AppleSupport for the love of god, can we get an update for this “I️” nonsense?",sim_cellular_network,performance_crash,0.3759829173718045
+"@AppleSupport So still, why the need for cc when you first set up an ID.",sim_cellular_network,apple_id_account,0.593794278520583
+"@AppleSupport No, I don’t even see that option. Sometimes it sets itself to less than 10% or more than 90%.",apps_app_store,performance_crash,0.46896521283200393
+@AppleSupport I had low power mode on 😂😂😂 sorry,sim_cellular_network,device_settings_features,0.6155822801293911
+HELPPPPPPP @AppleSupport,other_unclear,performance_crash,0.4261144894983541
+Every single update the volume/ringer interface is supposedly fixed. Still waiting for it ... @115858 @AppleSupport,sim_cellular_network,device_settings_features,0.7569775715830156
+@AppleSupport Y’all going to refund me for all the days my Apple Music hasn’t worked?! I’m going to have to drive home listening to the RADIO 😭,purchases_billing,purchases_billing,0.6748325523856453
+@AppleSupport This was not helpful in the slightest bit. Thanks for trying to help. This new update is what’s causing the glitch,sim_cellular_network,performance_crash,0.8305681473659114
+@AppleSupport Et que si je m’éloigne de ma box au bout de 3m c’est le no man’s land ? (Genre la je suis dans la pièce à côté mais en 4g pour écrire),sim_cellular_network,sim_cellular_network,0.5548345829712785
+"@AppleSupport Just a few contacts, not all. I get the red exclamation point. Tried all fixes from link and still nothing. Connectivity is fine as well.",messages_imessage,performance_crash,0.3049439309829122
+Hey @AppleSupport my phone alarm didn’t make a sound for a full hour why are you trying to ruin my life,apps_app_store,device_settings_features,0.6801156111730594
+Hey @AppleSupport! Fix your glitch with the letter that comes after “h”!,performance_crash,performance_crash,0.9187290073021909
+"Worst #customerservice ever @applesupport - Up to 4th Senior Advisor - no follow up, no call back, no resolution, now a hangup @116333",other_unclear,device_settings_features,0.3147710313091614
+"My iPhone 7 doesnthave an ""auto call answering"" option but I sick of it auto answering after few rings. How do I stop it?😡😡💚💚 @AppleSupport",calls,device_settings_features,0.56930245362012
+@AppleSupport IOS 11.1 UI is broken:Try making a call &amp; at the same time access any other app. The screen splits into 2 &amp; one half its black,calls,performance_crash,0.7834048876299353
+@AppleSupport I have to restart my phone every single time I want to make a call because the new update messed up with the handset!!!! FIX THIS BUG,calls,performance_crash,0.5731175627611341
+@AppleSupport Just the phone call,calls,calls,0.49286540794974554
+@AppleSupport I purchased extra storage but it's not reflecting. Can you help,purchases_billing,purchases_billing,0.8704378430983544
+Hi @AppleSupport how can I access audiobooks not purchased on iTunes but in the #audiobooks section of my #iTunes library on my #iPhone?,purchases_billing,purchases_billing,0.8405620928828832
+"@AppleSupport I was expecting them to sync, either via iTunes Match or on iBooks. Ones purchases through iTunes seem to appear in ibooks but others don't",purchases_billing,purchases_billing,0.7311249591715645
+@AppleSupport They were all purchased from iTunes,purchases_billing,purchases_billing,0.9196185557892231
+@AppleSupport are there any changes or issues with payment service? My method keeps being rejected. It worked perfectly fine a week ago.,purchases_billing,purchases_billing,0.3775221923463865
+"@AppleSupport the text reactions aren't working in iMessage. also when I FacetTme from my MacBook, the person I'm talking to can't see me",messages_imessage,messages_imessage,0.8476572860811665
+"@AppleSupport when I click on a message, the options do not appear on touch bar. And yes the FaceTime doesn't work for any contact",messages_imessage,device_settings_features,0.5221239218092544
+@AppleSupport Would love to be able to delete a group of texts messages at the same time. It shouldn't be that difficult!,messages_imessage,messages_imessage,0.43517804586259917
+@AppleSupport Nope. Just the exclamation mark saying not delivered. Only to android phones. iMessage works perfect,messages_imessage,messages_imessage,0.8476091917818088
+@AppleSupport the new update sucks. Do I need my cellular data on to send texts to non iPhone friends?,messages_imessage,sim_cellular_network,0.6959070404982005
+Hello @AppleSupport is there a bug for this #iOS11 ? Toggle from airplane mode turns on WiFi and Bluetooth,device_settings_features,device_settings_features,0.9568252152826876
+@AppleSupport #iOS11 bug when playing audio with bluetooth (music or spotify app): music sometimes stops for a split second :-(,device_settings_features,device_settings_features,0.8524240606939976
+"Why does my wifi &amp; bt still turned on even i turned em off in control center, it drains my batt ios11.1 @AppleSupport",device_settings_features,device_settings_features,0.958068310559953
+"Extremely unimpressed @AppleSupport! Installed #macOSHighSierra &amp; now my #iMac's #bluetooth #keyboard isn't connected, how do I then log in?",device_settings_features,device_settings_features,0.911156200751044
+"@AppleSupport Yep, immediately to the right of the WiFi icon. Spins continuously unless the phone is locked.",device_settings_features,device_settings_features,0.8886894262970201

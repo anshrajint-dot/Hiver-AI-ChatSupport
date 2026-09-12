@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,weighted_f1
+Improved TF-IDF + Logistic Regression,0.20909090909090908,0.1789775207312626,0.1415270861942555
